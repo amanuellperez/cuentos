@@ -18,8 +18,8 @@ leyes de la naturaleza. Lleva de moda desde hace bastantes décadas. Los
 paranoicos son eso, paranoias que no merece la pena perder el tiempo leyendo.
 
 La finalidad de practicamente todos los cuentos es la de sorprender al lector.
-De los más sorprendentes creo que es el cuento de [lucha a muerte](lucha a
-muerte.pdf) aunque no lo tengo claro. Es tal chorrada que no te esperas el
+De los más sorprendentes creo que es el cuento de [lucha a muerte]('lucha a
+muerte.pdf') aunque no lo tengo claro. Es tal chorrada que no te esperas el
 final. 
 
 Al releerlos algunos de los cuentos son un poco aburridos u obvios, como el de

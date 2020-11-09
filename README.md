@@ -26,4 +26,30 @@ Al releerlos algunos de los cuentos son un poco aburridos u obvios, como el de
 [hambre](hambre.pdf) que creo se ve el final desde el principio.
 
 
+Cuentos que me gustan:
+
+* [alejate de mi](alejate_de_mi.pdf)
+* [diario de un intermediario](diario_de_un_intermediario.pdf)
+* [al otro lado del ordenador](al_otro_lado_del_ordenador.pdf) (en su día si, ahora ya está mas usada la idea)
+* [el vampiro](el_vampiro.pdf)
+* [ladrones de vida](ladrones_de_vida.pdf)
+
+
+Cuentos que me resultan curiosos:
+* [lucha a muerte](lucha_a_muerte.pdf)
+* [fulana](fulana.pdf)
+* [la flor del amor](la_flor_del_amor.pdf)
+
+
+Cuentos paranoicos (mejor pasar de ellos):
+* acosado
+* celos
+* el cigarro
+* hambre
+* jaime
+* la dieta
+* la paliza
+
+
+AMLP
 

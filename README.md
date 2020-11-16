@@ -22,26 +22,30 @@ De los más sorprendentes creo que es el cuento de
 [lucha a muerte](lucha_a_muerte.pdf) aunque no lo tengo claro. Es tal chorrada que no te esperas el 
 final. 
 
-Al releerlos algunos de los cuentos son un poco aburridos u obvios, como el de
+Al releerlos encuentro algunos de los cuentos un poco aburridos u obvios, 
+como por ejemplo el cuento de
 [hambre](hambre.pdf) que creo se ve el final desde el principio.
 
 
-Cuentos que me gustan:
+### Cuentos que me gustan:
 
 * [alejate de mi](alejate_de_mi.pdf)
 * [diario de un intermediario](diario_de_un_intermediario.pdf)
-* [al otro lado del ordenador](al_otro_lado_del_ordenador.pdf) (en su día si, ahora ya está mas usada la idea)
-* [el vampiro](el_vampiro.pdf)
 * [ladrones de vida](ladrones_de_vida.pdf)
+* [premio nobel](premio_nobel.pdf)
+* [el vampiro](el_vampiro.pdf)
+* [al otro lado del ordenador](al_otro_lado_del_ordenador.pdf) (en su día si, ahora ya está mas usada la idea)
+* [vida monótona](vida_monotona.pdf)
+* [respeto](respeto.pdf) (aunque es del tipo paranoico)
 
 
-Cuentos que me resultan curiosos:
+### Cuentos que me resultan curiosos:
 * [lucha a muerte](lucha_a_muerte.pdf)
 * [fulana](fulana.pdf)
 * [la flor del amor](la_flor_del_amor.pdf)
 
 
-Cuentos paranoicos (mejor pasar de ellos):
+### Cuentos paranoicos (mejor pasar de ellos):
 * acosado
 * celos
 * el cigarro
@@ -49,6 +53,12 @@ Cuentos paranoicos (mejor pasar de ellos):
 * jaime
 * la dieta
 * la paliza
+* reproche
+* ser consciente
+
+
+Hay algún cuento más aparte de los mencionados aquí. Cotillea el repositorio
+de github para verlos todos.
 
 
 AMLP
